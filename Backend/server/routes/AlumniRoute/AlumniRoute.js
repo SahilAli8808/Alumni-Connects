@@ -560,7 +560,7 @@ router.post('/funds/:id', alumniAuth, (req, res) => {
  
 });
 
-const stripe = require('stripe')('sk_test_51F3KWQHWjDP4EbZD3FDMTuQ9gtFtw5mu35F1vfRxeGTDsmpD0ECBwoO5qc78rvnU0p6ygj12Fg5xuP6qrO4Fbb7u00JX3VeyLB', {apiVersion: ''});
+const stripe = require('stripe')('test', {apiVersion: ''});
 
 router.get('/paymentClient', async (req, res) => {
     try {
