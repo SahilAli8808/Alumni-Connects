@@ -23,7 +23,6 @@ The new version of this Web Application was class component-based.
 
 ## Getting Started
 <!-- Sreenshot -->
-![Screenshot](https://github.com/Kumailrizvi786/Alumni-Connect/blob/main/Frontend/src/assets/img/screenshots.jpg)
 <!-- Sreenshot -->
 ### Prerequisites
 * [Node.js](https://nodejs.org/en/download/)
