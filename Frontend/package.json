@@ -2,8 +2,7 @@
   "name": "sideman",
   "version": "1.0.0",
   "description": "Alumni Management System, This Project is to maintain Alumni of a college with some features",
-  "author": "Hrithik Anchaliya  <jainhrithik550@gmail.com>",
-  "repository": "github:HrithikAnchaliya/Alumni_Tracking_System",
+  "author": "Sahil Ali  <sahilali.cs@gmail.com>",
   "license": "UNLICENSED",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
